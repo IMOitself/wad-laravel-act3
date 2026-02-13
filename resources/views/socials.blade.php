@@ -23,6 +23,7 @@
             align-content: center;
             justify-content: center;
             text-align: center;
+            text-decoration: none;
         }
 
         .card img {
@@ -47,20 +48,21 @@
     <br>
 
     <div class="scroll-container">
-        <div class="card" style="background-color: #4495DE;"><img src="https://simpleicons.org/icons/linktree.svg"><p>linktree</p></div>
-        <div class="card" style="background-color: #222222;"><img src="https://simpleicons.org/icons/github.svg"><p>github</p></div>
-        <div class="card" style="background-color: #05CC47;"><img src="https://simpleicons.org/icons/deviantart.svg"><p>deviantart</p></div>
-        <div class="card" style="background-color: #1CAAD9;"><img src="https://simpleicons.org/icons/sketchfab.svg"><p>sketchfab</p></div>
-        <div class="card" style="background-color: #0096FA;"><img src="https://simpleicons.org/icons/pixiv.svg"><p>pixiv</p></div>
-        <div class="card" style="background-color: #00A42D;"><img src="https://simpleicons.org/icons/hackthebox.svg"><p>mcpedl</p></div>
-        <div class="card" style="background-color: #02A9FF;"><img src="https://simpleicons.org/icons/anilist.svg"><p>anilist</p></div>
-        <div class="card" style="background-color: #0866FF;"><img src="https://simpleicons.org/icons/facebook.svg"><p>facebook</p></div>
-        <div class="card" style="background-color: #5865F2;"><img src="https://simpleicons.org/icons/discord.svg"><p>discord</p></div>
-        <div class="card" style="background-color: #81B64C;"><img src="https://simpleicons.org/icons/chessdotcom.svg"><p>chess</p></div>
-        <div class="card" style="background-color: #499B49;"><img src="https://favicone.com/xbox.com?s=128"><p>xbox</p></div>
-        <div class="card" style="background-color: #171D25;"><img src="https://simpleicons.org/icons/steam.svg"><p>steam</p></div>
-        <div class="card" style="background-color: #000000;"><img src="https://simpleicons.org/icons/x.svg"><p>twitter</p></div>
-        <div class="card" style="background-color: #FF0000;"><img src="https://simpleicons.org/icons/youtube.svg"><p>youtube</p></div>
+        <a href="https://linktr.ee/imoitself" class="card" style="background-color: #4495DE;"><img src="https://simpleicons.org/icons/linktree.svg"><p>linktree</p></a>
+        <a href="https://github.com/IMOitself" class="card" style="background-color: #222222;"><img src="https://simpleicons.org/icons/github.svg"><p>github</p></a>
+        <a href="https://www.deviantart.com/imo7" class="card" style="background-color: #05CC47;"><img src="https://simpleicons.org/icons/deviantart.svg"><p>deviantart</p></a>
+        <a href="https://sketchfab.com/imoitself" class="card" style="background-color: #1CAAD9;"><img src="https://simpleicons.org/icons/sketchfab.svg"><p>sketchfab</p></a>
+        <a href="https://www.pixiv.net/en/users/89189205" class="card" style="background-color: #0096FA;"><img src="https://simpleicons.org/icons/pixiv.svg"><p>pixiv</p></a>
+        <a href="https://mcpedl.com/user/imoitself/" class="card" style="background-color: #00A42D;"><img src="https://simpleicons.org/icons/hackthebox.svg"><p>mcpedl</p></a>
+        <a href="https://anilist.co/user/IMOitself/animelist" class="card" style="background-color: #02A9FF;"><img src="https://simpleicons.org/icons/anilist.svg"><p>anilist</p></a>
+        <a href="https://www.facebook.com/profile.php?id=100083333136200" class="card" style="background-color: #0866FF;"><img src="https://simpleicons.org/icons/facebook.svg"><p>facebook</p></a>
+        <a href="https://discord.com/users/903170305634226207" class="card" style="background-color: #5865F2;"><img src="https://simpleicons.org/icons/discord.svg"><p>discord</p></a>
+        <a href="https://www.chess.com/member/imo_itself" class="card" style="background-color: #81B64C;"><img src="https://simpleicons.org/icons/chessdotcom.svg"><p>chess</p></a>
+        <a href="https://www.xbox.com/en-PH/play/user/IMOitself" class="card" style="background-color: #499B49;"><img src="https://favicone.com/xbox.com?s=128"><p>xbox</p></a>
+        <a href="https://steamcommunity.com/profiles/76561198739538125" class="card" style="background-color: #171D25;"><img src="https://simpleicons.org/icons/steam.svg"><p>steam</p></a>
+        <a href="https://roblox.com/users/957957895/profile" class="card" style="background-color: #000;"><img src="https://simpleicons.org/icons/roblox.svg"><p>roblox</p></a>
+        <a href="https://x.com/IMOitself" class="card" style="background-color: #000000;"><img src="https://simpleicons.org/icons/x.svg"><p>twitter</p></a>
+        <a href="https://www.youtube.com/channel/UCcdRiEI4ucNfEnG7TqAM3Fw" class="card" style="background-color: #FF0000;"><img src="https://simpleicons.org/icons/youtube.svg"><p>youtube</p></a>
 
         
     </div>
