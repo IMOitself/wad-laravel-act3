@@ -4,11 +4,9 @@
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/60f6c4c6-e299-4882-9816-ab8081a21cf4" />
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/9df48316-1a12-482c-b71a-d60d14e56e07" />
 
+## Installation
+- must have php and composer
 
-
-
-
-# Installation
 ```bash
 composer fix-cloned-repo-imo
 ```
